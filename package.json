@@ -4,11 +4,14 @@
   "description": "Hello world assignment for learners to familiarize themselves with visual studio code, testing, node, and github ",
   "main": "index.js",
   "scripts": {
-      "test": "jest"
+    "test": "jest"
   },
   "author": "",
   "license": "ISC",
   "devDependencies": {
     "jest": "^29.7.0"
+  },
+  "dependencies": {
+    "readline-sync": "^1.4.10"
   }
 }

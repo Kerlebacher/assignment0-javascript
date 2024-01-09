@@ -3,4 +3,4 @@ function hello() {
 	return "Hello world!";
 }
  
-module.exports = hello;
+console.log ("Hello World:");
